@@ -7,7 +7,7 @@ order: 4
 
 Hey there! 👋 I'm Sicario a passionate Red Teamer and Penetration Tester based in Sydney, Australia.
 
-### 🚀 What I Do
+### 🚀 What I Do 
 
 I specialize in identifying and addressing security vulnerabilities, testing the defenses of systems and networks, and helping organizations strengthen their security postures. My work involves:
 
