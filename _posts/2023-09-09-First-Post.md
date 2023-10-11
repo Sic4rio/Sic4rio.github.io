@@ -27,7 +27,7 @@ Expect to find a variety of articles covering a wide range of subjects, includin
 
 ## Let's Connect
 
-I'm excited to engage with all of you. Feel free to leave comments, ask questions, and share your thoughts on the topics I cover. Let's learn and explore together.
+Feel free to leave comments, ask questions, and share your thoughts on the topics I cover. 
 
 Thank you for joining me on this journey. I look forward to sharing knowledge, stories, and experiences with you.
 
