@@ -36,4 +36,4 @@ Feel free to reach out, whether it's for professional collaboration, knowledge e
 
 Looking forward to connecting with you!
 
-![Cybersecurity](path-to-your-profile-image.jpg)
+![Cybersecurity](to be added )
