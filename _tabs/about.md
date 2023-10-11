@@ -3,18 +3,33 @@
 icon: fas fa-info-circle
 order: 4
 ---
-> Hello.
+> Hello Friend.
 {: .prompt-tip }
-> 
-## About Me
+>
+![Alt Text](https://media.tenor.com/Xz5sC3bGLYUAAAAC/pennywise-hello.gif)
 
-Hey there! 👋 I'm SICARIO a passionate Red Teamer and Penetration Tester based in Sydney, Australia.
+# About Me
 
-### 🚀 What I Do
+Yo, what's poppin 🚀 They call me SICARIO, the Red Team renegade, holding it down in Sydney, Australia. Here's who I am and what I do:
 
-I specialize in identifying and addressing security vulnerabilities, testing the defenses of systems and networks, and helping organizations strengthen their security postures. My work involves:
+## 🕵️‍♂️ The Curious Hacker 
 
-- Conducting comprehensive security assessments and penetration tests.
-- Simulating real-world attacks to uncover vulnerabilities.
-- Providing actionable recommendations to enhance security.
-- Contributing to the ever-evolving field of cybersecurity.
+I specialize in identifying and addressing security vulnerabilities. It's my job to ensure that digital systems and networks stand strong against potential threats. 
+
+## 💣 Chaos Creator
+
+I simulate real-world attacks to uncover vulnerabilities, but my purpose is entirely ethical. I'm on a mission to strengthen defenses and enhance security measures.
+
+## 🛡️ Fortress Builder
+
+I work closely with organizations to provide actionable recommendations that improve their security posture. It's a collaborative effort to protect their digital assets.
+
+## 📚 Digital Scholar
+
+In this ever-evolving field of cybersecurity, I'm committed to staying at the forefront. I'm always exploring new techniques, tools, and strategies to enhance my hacking skills.
+
+## 🌐 Always Ahead
+
+When I'm not tearing down code or getting torn down by code, I'm out there, surfing the internet, exploring the latest attack vectors, mastering high-level security techniques, and always staying one step ahead in the ever-shifting digital battleground.
+
+Let the fun and games begin! 💻🛡️
