@@ -12,7 +12,7 @@ tags: [active-directory,windows,ad,enumeration,recon,clm]
 
 In this brief post, I'd like to share valuable insights gained from my Certified Red Team Professional (CRTP) training course, led by the instructor, Nikhil SamratAshok Mittal. During the course, I learned how to harness the power of Microsoft's PowerShell ActiveDirectory module, a skill that can prove indispensable for red teaming and penetration testing.
 
-## Discovering the ActiveDirectory Module
+## The ActiveDirectory Module
 
 The CRTP course introduced me to a fascinating technique that allows us to effectively use the ActiveDirectory module without the need for Remote Server Administration Tools (RSAT) or administrative privileges. This knowledge, shared by Nikhil Mittal during the training, provides red teamers with an essential tool in their arsenal.
 
