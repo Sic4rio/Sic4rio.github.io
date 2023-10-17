@@ -10,7 +10,7 @@ tags: [active-directory,windows,ad,enumeration,recon,clm]
 
 # Using ActiveDirectory Module for Domain Enumeration from PowerShell Constrained Language Mode
 
-In this brief post, I'd like to share valuable insights gained from my Certified Red Team Professional (CRTP) training course, led by the instructor, Nikhil SamratAshok Mittal. During the course, I learned how to harness the power of Microsoft's PowerShell ActiveDirectory module, a skill that can prove indispensable for red teaming and penetration testing.
+In this brief post, I'd like to share valuable insights gained from my Certified Red Team Professional (CRTP) training course, led by the instructor, Nikhil SamratAshok Mittal. During the course, I learned the power of Microsoft's PowerShell ActiveDirectory module, a skill that can prove indispensable for red teaming and penetration testing.
 
 ## The ActiveDirectory Module
 
@@ -37,11 +37,11 @@ Here's how you can make the most of the ActiveDirectory module:
 
 ## A Memory-Efficient Update 
 
-Thanks to a awesome Pull Request (PR) by @D1iv3, it's now possible to load the module from memory using `Import-ActiveDirectory.ps1`. This script brings a multitude of benefits, including minimal detection risks by antivirus (AV) software, an expansive array of cmdlets (cmdlet usage will breifly be explored in a this post), effective cmdlet filters, and the all-important endorsement from Microsoft.
+Thanks to a awesome Pull Request (PR) by @D1iv3, it's now possible to load the module from memory using `Import-ActiveDirectory.ps1`. This script has a bunch of benefits, including minimal detection risks by antivirus (AV) software, an array of cmdlets (cmdlet usage will breifly be explored in a this post), effective cmdlet filters, and the all-important endorsement from Microsoft.
 
 For your convenience, Nikhil has shared a copy of the module from a Windows Server 2016 on [GitHub](https://github.com/samratashok/ADModule).
 
-One of the most valuable perks of this technique is its  compatibility with PowerShell Constrained Language Mode (CLM) and low detection rate, making it an invaluable asset for restricted internal engagements.
+One of the most valuable perks of this technique is its compatibility with PowerShell Constrained Language Mode (CLM) and low detection rate, making it an invaluable asset for restricted internal engagements.
 
 
 # Microsoft.ActiveDirectory.Management.dll Cheat Sheet
